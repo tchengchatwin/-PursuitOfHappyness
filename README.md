@@ -1,0 +1,3 @@
+# -PursuitOfHappyness
+You have a dream, you got to protect it.
+please readme before you start this code ...
